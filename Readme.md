@@ -1,5 +1,5 @@
 <h1>Laravel RESTfull API </h1>
-yang harus di siapkan adalah : <ol>
+Beberapa hal yang harus di siapkan adalah : <ol>
 <li> Xampp.</li>
 <li> Composer.</li>
 <li> Laravel.</li>
